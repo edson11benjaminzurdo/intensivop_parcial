@@ -1,9 +1,9 @@
 import "./App.css"
-import { ButtonFooter } from "./component/ButtonFooter"
+import { ButtonTicket } from "./component/ButtonTicket"
 import {Chip} from './component/Chip'
-import { Description } from "./component/Description"
+import { Resume } from "./component/Resume"
 import { TopCast } from "./component/TopCast"
-import {TopImage} from "./component/TopImage"
+import {TopImage} from "./component/Porter"
 
 function App() {
 
@@ -11,9 +11,9 @@ function App() {
     <>
     <TopImage/>
     <Chip/>
-    <Description/>
+    <Resume/>
     <TopCast />
-    <ButtonFooter/>
+    <ButtonTicket/>
     </>
   )
 }

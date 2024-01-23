@@ -1,6 +1,6 @@
-import "./ButtonFooter.css";
+import "./ButtonTicket.css";
 
-export const ButtonFooter = () => {
+export const ButtonTicket = () => {
   return (
     <div className="buttonContainer">
       <button className="button">Book Tickets</button>

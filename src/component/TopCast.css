@@ -2,10 +2,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    
+    font-size: 10px;
+    color: #6A536A; 
 }
 .Actors {
     display: flex;
     gap: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }

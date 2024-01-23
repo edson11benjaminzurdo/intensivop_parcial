@@ -2,7 +2,7 @@ import './Description.css';
 import synopsis from "../assets/descriptions.json"
 import { DescriptionCast } from "./DescriptionCast";
 
-export const Description = () => {
+export const Resume = () => {
   return (
         <div className="descriptionContainer">
                 {synopsis.map((textMovie) => (

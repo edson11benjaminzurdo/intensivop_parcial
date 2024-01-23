@@ -1,4 +1,4 @@
-import "./TopImage.css"
+import "./ImageCast.css"
 
 export const ImageCast = ({ poster }:any) => {
   return (

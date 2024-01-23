@@ -1,6 +1,6 @@
 import {ImageCast} from  "./ImageCast";
 import img from "../assets/cartelera.json"
-import "./TopImage.css"
+import "./ImageCast.css"
 
 export const TopImage = () => {
   return (
